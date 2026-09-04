@@ -12,7 +12,7 @@ Welcome to an exploration of how to process signals from the brain and body for 
   - Fill the code in every block that contains a "TODO:".
   - Answer the short response questions.
   - This is the only deliverable. You don't need to modify anything other than this file.
-- Export the notebook as PDF and submit to gradescope!
+- Submit 1. the notebook itself in `.ipynb` and 2. export the notebook as `.pdf` and submit both to gradescope!
   - Before submitting, make sure the notebook is run from beginning to the end.
 
 ## General Advice
@@ -20,5 +20,5 @@ Welcome to an exploration of how to process signals from the brain and body for 
 - In the lab, we emphasize on understanding the content and being able to answer short-response questions.
 - While the actual code blocks needed to be filled are relatively shorter (especially in the earlier labs), it is important to understand what the code is doing and why.
 - As outlined in the course policy, it is fine to use AI tools to assist with lower-level coding strategies, such as understanding Python syntax or interpreting error messages. However, Directly completing blocks of code is highly discouraged, as you will be expected to write and understand similar code independently in the exams.
-- If you don't have enough time to complete the lab, remember you can utilize the 5 slip days (shared between HW and labs).
+- If you don't have enough time to complete the lab, remember you can utilize up to 5 slip days throughout the semester (shared between HW and labs).
 - Please come to OH or ask on Ed if you have any questions!
